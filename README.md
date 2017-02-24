@@ -22,7 +22,7 @@ A sample portion of the output from the middle is as shown below.
 
 ![Image](https://github.com/srkmish/InventoryManagement/blob/master/python2.png)
 
-For the first line, the header number is displayed as 65. For product type 'A', the quantity requested is 5. Since the inventory contains more than 5, the inventory is allocated to the order and displayed in the order allocated section of the output. For product type 'C', the quantity requested is 2. However, since the inventory for this product is below 2 , the order is added to the backordered section. For product type 'E', the quantity requested is 7, which is invalid. Hence this order is neither allocated nor backordered.
+For the first line, the header number is displayed as 65. For product type 'A', the quantity requested is 5. Since the inventory quantity for this product is more than 5, the inventory is allocated to the order and displayed in the order allocated section of the output. For product type 'C', the quantity requested is 2. However, since the inventory for this product is below 2 , the order is added to the backordered section. For product type 'E', the quantity requested is 7, which is invalid. Hence this order is neither allocated nor backordered.
 
 
 
