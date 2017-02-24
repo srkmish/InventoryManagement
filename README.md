@@ -9,7 +9,7 @@ C: 100
 D: 100
 E:200
 
-A datasource class randomly generates an order line 300 times(number chosen so that datasource gets exhausted and data gets printed)
+A datasource class randomly generates an order line 300 times(number chosen so that inventory gets exhausted and data gets printed)
 Each order line contains orders for each product type with quantity randomly ranging from 0-7 where 0,6,7 are invalid orders and won't get processed
 
 An inventory allocator class allocates all the inventory as per the order lines and prints the processed orders on the output when the 
