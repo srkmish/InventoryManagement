@@ -13,7 +13,7 @@ A datasource class randomly generates an order line 300 times(number chosen so t
 Each order line contains orders for each product type with quantity randomly ranging from 0-7 where 0,6,7 are invalid orders and won't get processed
 
 
-![Image](https://github.com/srkmish/InventoryManagement/blob/master/python.png)
+![Image](https://github.com/srkmish/InventoryManagement/blob/master/python2.png)
 
 
 
